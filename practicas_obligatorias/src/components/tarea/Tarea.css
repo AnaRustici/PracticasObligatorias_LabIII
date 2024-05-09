@@ -1,0 +1,8 @@
+.list-element {
+    display: flex;
+    justify-content: space-between;
+}
+
+.check-button {
+    margin-right: 15px;
+}
